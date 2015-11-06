@@ -1,5 +1,5 @@
 {
-  "name": "fluxible-plugin-cookie",
+  "name": "@picryl/fluxible-plugin-cookie",
   "version": "0.1.0",
   "description": "Read & write cookies from your fluxible application",
   "main": "index.js",
